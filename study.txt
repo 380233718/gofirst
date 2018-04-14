@@ -1,2 +1,7 @@
 git 无闻 https://github.com/Unknwon
 blog https://yami.io/php-to-golang/
+
+https://blog.csdn.net/john_f_lau/article/details/78762330
+http://idea.youbbs.org
+注册码有效期为2017年10月15日至2018年10月14日 
+使用前请将“0.0.0.0 account.jetbrains.com”添加到hosts文件
